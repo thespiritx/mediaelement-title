@@ -1,7 +1,7 @@
-require "mediaelement-skin-avalon/engine"
+require "mediaelement-title/engine"
 
 module Mediaelement
-  module Skinavalon
+  module Title
       # Your code goes here...
   end
 end
